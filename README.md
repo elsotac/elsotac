@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elsotac
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning 
-- 🌱 I’m currently learning a Master in Data Science
+- 🌱 I’m currently learning a ...
 - 💞️ I’m looking to collaborate on Machine Learning projects, AI, Pattern Recognition, Clustering.
 - 📫 How to reach me @: juan.cuevas.p (at) ug (dot) uchile (dot) cl
 
